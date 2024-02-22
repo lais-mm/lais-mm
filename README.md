@@ -1,6 +1,6 @@
-# Hello, I'm Laís 👋
+## Hello, I'm Laís 👋
 
-### About me
+## About me
 
 💻 Software developer | Front-end developer | Software engineer | UX Designer
 
