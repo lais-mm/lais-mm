@@ -13,7 +13,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Vue.js](https://img.shields.io/badge/-vuejs-333333?style=flat&logo=vuedotjs)
-![NodeJS](https://img.shields.io/badge/node.js-333333?style=for-the-badge&logo=node.js&logoColor=white)
+![NodeJS](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
