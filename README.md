@@ -4,9 +4,9 @@
 
 💻 Software developer | Front-end developer | Software engineer | UX Designer
 
-👩‍💻 Occupation [Analista de desenvolvimento de sistemas] 
+👩‍💻 Occupation Analista de desenvolvimento de sistemas
 
-**Technologies && Tools ⚡**
+### ⚙️ Technologies && Tools 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -23,9 +23,11 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
-### Learning... 🧩
+### 🧩 Learning... 
 
 ![Vue.js](https://img.shields.io/badge/-vuejs-333333?style=flat&logo=vuedotjs)
+
+### ⚡ Stats 
 
 <div>
 <a href="https://github.com/lais-mm">
