@@ -3,6 +3,7 @@
 ### About me
 
 💻 Software developer | Front-end developer | Software engineer | UX Designer
+
 👩‍💻 Occupation [Analista de desenvolvimento de sistemas] 
 
 **Technologies && Tools**
