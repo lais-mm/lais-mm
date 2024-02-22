@@ -4,7 +4,7 @@
 
 💻 Software developer | Front-end developer | Software engineer | UX Designer
 
-👩‍💻 Occupation Analista de desenvolvimento de sistemas
+👩‍💻 Occupation: Analista de desenvolvimento de sistemas
 <br>
 
 ## ⚙️ Technologies && Tools 
