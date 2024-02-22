@@ -6,7 +6,7 @@
 
 👩‍💻 Occupation [Analista de desenvolvimento de sistemas] 
 
-**Technologies && Tools**
+**Technologies && Tools ⚡**
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -27,10 +27,7 @@
 
 ![Vue.js](https://img.shields.io/badge/-vuejs-333333?style=flat&logo=vuedotjs)
 
-
-### GitHub Stats ⚡
 <div>
 <a href="https://github.com/lais-mm">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lais-mm&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=lais-mm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
