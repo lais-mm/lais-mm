@@ -5,8 +5,8 @@
 💻 Software developer | Front-end developer | Software engineer | UX Designer
 
 👩‍💻 Occupation Analista de desenvolvimento de sistemas
-
 <br>
+
 ## ⚙️ Technologies && Tools 
 
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
@@ -27,8 +27,8 @@
 ## 🧩 Learning... 
 
 ![Vue.js](https://img.shields.io/badge/-vuejs-333333?style=flat&logo=vuedotjs)
-
 <br>
+
 ## ⚡ Stats 
 
 <div>
