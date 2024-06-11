@@ -24,7 +24,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=azure)
 
 
 
