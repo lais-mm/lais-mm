@@ -16,6 +16,7 @@
 ![Vue.js](https://img.shields.io/badge/-vuejs-333333?style=flat&logo=vuedotjs)
 ![NodeJS](https://img.shields.io/badge/-node.js-333333?style=flat&logo=node.js)
 ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
@@ -23,7 +24,8 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Grafana](https://img.shields.io/badge/-Grafana-333333?style=flat&logo=Grafana)
 ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=Azure)
+
 
 
 ## 🧩 Learning... 
