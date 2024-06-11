@@ -21,6 +21,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=Firebase)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 
